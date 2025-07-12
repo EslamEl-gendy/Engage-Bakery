@@ -93,7 +93,7 @@ text-decoration: none;
 /*                                   start style cotener*/
 #header{
    min-height:100vh;
-    background-image: url(../drew-coffman-1872.jpg);
+    background-image: url(./images/drew-coffman-1872.jpg);
     background-size: cover;
     background-position: center center;
    
