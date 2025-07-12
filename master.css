@@ -1,0 +1,376 @@
+/*                                 start style general*/
+body{
+    margin: 0%; 
+    font-family:"Alegreya sans", sans-serif; 
+
+}
+
+    
+
+h1,h2,h3,h4,h5,h6 {
+font-family: "Alegreya",serif;
+
+}
+.container {
+    width: 85%;
+    margin: auto;
+    overflow: hidden;
+}
+.container::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+div img{
+    width: 100%;
+}
+.image{
+    width: 100%;
+}
+
+p{
+
+ font-family: 
+    "Alegreya Sans";
+    
+    color:#686868;
+
+}
+h2{
+    color: #303030;
+    font-size: 32px;
+    font-weight: 400;
+   } 
+.main-color{
+    color:white;
+}
+.float-right{
+    float: right;
+}
+.float-left{
+    float: left;
+}
+.clear{
+    clear: both;
+}
+ul {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+
+}
+a {
+text-decoration: none;    
+}
+
+.w-50{
+    width: 50%;}
+.w-45{
+    width: 45%;}
+.p-section{
+    padding-top: 90px;
+    padding-bottom: 60px;
+}
+.text-center{
+    text-align: center;
+}
+.height-line{
+    line-height: 31.62px;
+
+
+}
+.font-w{
+    font-size: 17px;
+    font-weight: 400;
+}
+.b-g{
+    background-color: #f8f8f8;}
+
+    
+
+/*                                    end style general*/
+/*                                   start style cotener*/
+#header{
+   min-height:100vh;
+    background-image: url(../drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center center;
+   
+}
+ 
+
+    
+ .image-logo img{
+    height: 48px;
+ 
+}
+ #header .links{
+    padding-top:18px;
+    padding-bottom: 18px;
+
+}
+
+.links ul li a {
+    margin-left: 15px;
+    margin-right: 15px;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Alegreya",serif;
+}
+.navbar{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.header-content{
+    width: 58.5%;
+    margin: auto;
+    text-align: center;
+    margin-top: 97px;
+    color: white;
+    font-weight: 400;
+    
+}
+.header-content h1{
+    font-size: 76px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+
+    
+}
+    
+    
+.header-content p{
+    color: white;
+    margin: 0px;
+}
+.fristpara{
+    font-size: 22px;
+    margin: 0%;
+
+}
+.secandpara{
+    font-size: 24px;
+
+}
+.header-button{
+
+    margin-top: 30px;
+}
+.header-button button{
+    background-color:transparent;
+    border:none;
+    padding: 15px 28px;
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+    border-radius: 5px; 
+    margin: 2px;
+
+}
+.header-button .but1{
+    background-color: #8E7754;
+    border: 2px solid;
+    border-color: #8E7754;
+
+}
+.header-button .but2{
+    border-color: white;
+    border: 2px solid;
+
+}
+.frist-section-heading p{
+    line-height: 31.62px;
+} 
+.frist-section-icon{
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    border: .5px solid gray;
+    line-height: 44px;
+    font-size: 20px;
+    top: 6px;
+    margin-right: 10px;
+}
+.text-icon{
+margin: 13px 0px 22px 0px;    
+}
+.icon-list{
+    margin-bottom: 15px;
+}
+
+
+
+                               /*END style first part*/
+        /*                         start part 3                      */
+
+.three-section-para{
+    margin-top: 100px;
+}
+
+
+
+
+  /*                                    end part 3                      */
+ /*                            start part 4                      */
+    
+
+ .four-section{
+    padding-top: 60px;
+    padding-bottom: 60px;
+ }
+
+ .four-section .header-four-section{
+     text-align: center;
+     margin-bottom: 60px;
+ }
+
+ .four-section .header-four-section p{
+    font-size: 17px;
+    font-weight: 400;
+ }   
+
+.four-section .cards{
+    width: 30%;
+}
+
+.frist-card{
+    margin-right: 5%;
+}
+/*                                         end part 4                               */
+ /*                                       start part5                                */
+ .b-g-icon{
+    background-color: #8E7754;
+ }
+
+.p-d{
+    padding-top: 10px;
+
+}
+/*                                       end part5                                   */
+
+ /*                                        start part6                             */
+
+
+.w-six-icon{
+    width: 11%;
+}
+.w-25{
+    width: 22%;
+}
+
+    
+
+.custom-line {
+  border: none;
+  height: 0.1px;
+  background: #686868;
+  margin: -7px 0;
+}
+.three {
+    margin-left: 50px;
+
+
+}
+.two{
+    margin-left:50px;
+}
+.four{
+    margin-right: 20px;
+}
+.one p{
+    line-height: 22px;
+}
+.six-section h4{
+    color: white;
+}
+.six-section{
+    background-color:#403d38;
+ padding-top: 50PX;
+ padding-bottom: 50PX;
+}
+
+.line-height{
+
+    line-height: 25px;
+}
+.six-section p{
+    color:#969696 ;
+}
+/*                                end part6*/
+/*                                              start part7                             */
+
+
+
+
+.final-section{
+    background-color: #353330;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.final-img-logo{
+    width: 30%;
+    margin-left: 35%;
+}
+.final-img-icon{
+    width: 6%;
+    height: 6%;
+    border-radius: 100%;
+    line-height: 3px;
+    background-color: #484540;
+    margin: 3px;
+    
+}
+.final-icon{
+    text-align: center;
+
+}
+.final-icon-img{
+    margin-left: 42%;
+}
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .test{
+    background-color: #555;
+
+}
+.test1{
+background-color: chartreuse;
+}
+.test2{
+    background-color: cadetblue;
+}
+.test3{
+    background-color: black;
+}
+.test4{ background-color: burlywood;}
+.test5{
+    background-color: brown;
+}
